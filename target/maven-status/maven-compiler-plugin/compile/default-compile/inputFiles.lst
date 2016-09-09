@@ -1,0 +1,10 @@
+/home/houdi/workspace/search-client/src/main/java/com/autodesk/cp/search/client/request/BackSearchParameter.java
+/home/houdi/workspace/search-client/src/main/java/com/autodesk/cp/search/client/jest/ESFactory.java
+/home/houdi/workspace/search-client/src/main/java/com/autodesk/cp/search/client/request/FrontSearchParameter.java
+/home/houdi/workspace/search-client/src/main/java/com/autodesk/cp/search/client/jest/ESJest.java
+/home/houdi/workspace/search-client/src/main/java/com/autodesk/cp/search/client/results/DesignersResult.java
+/home/houdi/workspace/search-client/src/main/java/com/autodesk/cp/search/client/domain/CommonIndex.java
+/home/houdi/workspace/search-client/src/main/java/com/autodesk/cp/search/client/utils/DesignerUtility.java
+/home/houdi/workspace/search-client/src/main/java/com/autodesk/cp/search/client/dslscript/DesignerDSLScripts.java
+/home/houdi/workspace/search-client/src/main/java/com/autodesk/cp/search/client/utils/ConfigUtil.java
+/home/houdi/workspace/search-client/src/main/java/com/autodesk/cp/search/client/request/HighLevelSearchParameter.java

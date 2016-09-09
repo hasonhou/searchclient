@@ -1,0 +1,10 @@
+com/autodesk/cp/search/client/dslscript/DesignerDSLScripts.class
+com/autodesk/cp/search/client/request/HighLevelSearchParameter.class
+com/autodesk/cp/search/client/utils/DesignerUtility.class
+com/autodesk/cp/search/client/request/FrontSearchParameter.class
+com/autodesk/cp/search/client/results/DesignersResult.class
+com/autodesk/cp/search/client/domain/CommonIndex.class
+com/autodesk/cp/search/client/jest/ESJest.class
+com/autodesk/cp/search/client/request/BackSearchParameter.class
+com/autodesk/cp/search/client/jest/ESFactory.class
+com/autodesk/cp/search/client/utils/ConfigUtil.class

@@ -1,0 +1,5 @@
+com/autodesk/cp/esclient/AppTest.class
+com/autodesk/cp/search/client/dslscript/DesignerDSLScriptsTest.class
+com/autodesk/cp/esclient/DesignerUtilityTest.class
+com/autodesk/cp/search/client/jest/ESFactoryTest.class
+com/autodesk/cp/search/client/jest/EsJestTest.class
